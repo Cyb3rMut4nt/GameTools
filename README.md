@@ -1,7 +1,4 @@
-"# GameTools" 
-"# GameTools" 
-
-
+auto run steam://install
 
 usage：
 
