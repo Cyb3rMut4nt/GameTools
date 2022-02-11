@@ -44,11 +44,11 @@ with open('steam.txt','r',encoding='utf-8') as f:
         time.sleep(1)
         game = f.readline()
         if game:
-            if re.findall('^steam:\/\/.*? ',game):
-                cmd = re.findall('^steam:\/\/.*? ',game)
+            if re.findall('^steam:\/\/.*? ',game.lower()):
+                cmd = re.findall('^steam:\/\/.*? ',game.lower())
                 cmd = dir + '\steam ' + str(cmd).replace("['",'').replace("']",'')
-            elif re.findall('^steam:\/\/.*[0-9]',game):
-                cmd = re.findall('^steam:\/\/.*[0-9]',game)
+            elif re.findall('^steam:\/\/.*[0-9]',game.lower()):
+                cmd = re.findall('^steam:\/\/.*[0-9]',game.lower())
                 cmd = dir + '\steam ' + str(cmd).replace("['",'').replace("']",'')
             else:
                 print('not success for: ' + game)
