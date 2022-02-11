@@ -15,7 +15,7 @@ python3 SteamAutoGet.py
 
 example：
 
-![image-20220211150122575](C:\Users\chanra\AppData\Roaming\Typora\typora-user-images\image-20220211150122575.png)
+![image-20220211150122575](https://github.com/394624914/public/blob/main/picture/SteamAutoGet/image-20220211150122575.png)
 
 ```
 #steam.txt
@@ -40,4 +40,4 @@ steam://install/1205560《对魔忍雪风体验版》（锁区）
 steam://install/1330250 《对魔忍COLLECTION：决战竞技场》（锁区）
 ```
 
-![image-20220211150458112](C:\Users\chanra\AppData\Roaming\Typora\typora-user-images\image-20220211150458112.png)
+![image-20220211150458112](https://github.com/394624914/public/blob/main/picture/SteamAutoGet/image-20220211150458112.png)
