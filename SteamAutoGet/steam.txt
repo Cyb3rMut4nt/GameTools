@@ -1,22 +1,3 @@
-steam://install/1198260 《Beneath steel clouds》（锁区）
-steam://install/1084630 《Sacred Sword Princesses》（锁区）
-steam://install/1024800 《Femdom Waifu》（锁区）
-steam://install/950860 《Spiral Clicker》（锁区）
-steam://install/823550 《Booty Calls》（锁区）
-steam://install/958720 《Second Chance》（锁区）
-steam://install/510660 《Big Bang Empire》
-steam://install/1191420 《Fake Lay》（锁区）
-steam://install/966460 《Undress Tournament》（锁区）
-steam://install/962380 《HOT FITI》（锁区）
-steam://install/966870 《SinVR》（锁区）
-steam://install/1121310 《ViRo Playspace》（锁区）
-steam://install/865570 《pact with a witch》（锁区）
-steam://install/1245610 《AChat》（锁区）
-steam://install/720380 《Ancestors Legacy Free Peasant Edition》
-steam://install/8500 《EVE》（Steam锁区）
-steam://install/1172470 《Apex》（Steam锁区）
-steam://install/1205560《对魔忍雪风体验版》（锁区）
-steam://install/1330250 《对魔忍COLLECTION：决战竞技场》（锁区）
 steam://install/311730 《死或生5：最后一战》
 steam://install/838380 《死或生6》
 steam://install/921590 《最终幻想 纷争》
@@ -53,3 +34,50 @@ steam://install/1593310 《猫郎乐园》
 steam://install/909080 《Cube Escape: Paradox》
 steam://install/588430 《Fallout Shelter》
 steam://install/876160 《Occupy White Walls》
+steam://install/739260
+steam://install/978790
+steam://install/735570
+steam://install/978800
+steam://install/891130
+steam://install/983990
+steam://install/999200
+steam://install/906390
+steam://install/943700
+steam://install/1811180
+steam://install/1743260
+steam://install/1161770
+steam://install/1463120
+steam://install/1648300
+steam://install/1724190
+steam://install/1630080
+steam://install/739260
+steam://install/978790
+steam://install/735570
+steam://install/978800
+steam://install/983990
+steam://install/891130
+STEAM://INSTALL/921590  最终幻想：纷争
+STEAM://INSTALL/442120    PINBALL FX3
+STEAM://INSTALL/1161770  魔物娘农场
+STEAM://INSTALL/943700    魔物娘岛屿
+STEAM://INSTALL/92   CODENAME GORDON
+STEAM://INSTALL/48   SPACEWAR
+STEAM://INSTALL/311730    死或生5
+STEAM://INSTALL/838380    死或生6
+STEAM://INSTALL/1172470  APEX英雄
+STEAM://INSTALL/1205560  对魔忍雪风体验版
+STEAM://INSTALL/770990    银翼杀手9732
+STEAM://INSTALL/453480    影之诗
+STEAM://INSTALL/1330250  对魔忍
+STEAM://INSTALL/258160 RISE OF INCAMATES
+STEAM://INSTALL/287630   	议会
+STEAM://INSTALL/274980    INFLUENT
+STEAM://INSTALL/444200    坦克世界闪电战
+STEAM://INSTALL/15009820  CLOUD CLIMBER
+steam://install/730 cs:go
+steam://install/1568940
+steam://install/1715900
+steam://install/1760080
+steam://install/1447560
+steam://install/958260
+steam://install/838380
